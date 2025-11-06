@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Timer",
+  "description": "A sleek and modern countdown timer application built with React and Tailwind CSS. Set hours, minutes, and seconds, and watch the visual progress indicator count down. Features start, pause, resume, and reset functionality.",
+  "requestFramePermissions": []
+}
